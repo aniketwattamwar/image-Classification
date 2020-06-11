@@ -97,3 +97,19 @@ dog_array = dog_array / 255
 
 dog_result = classifier.predict(dog_array)
 dog_classes = classifier.predict_classes(dog_array)
+
+
+
+#this comment is made in VS code.
+
+
+
+
+
+
+
+
+
+
+
+
